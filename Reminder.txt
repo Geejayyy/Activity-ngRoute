@@ -1,0 +1,20 @@
+Good day! I am still not in school today...
+I would like to give you something to study and an assignment to be checked on Monday....
+Study:
+http://www.w3schools.com/angular/angular_routing.asp
+http://www.w3schools.com/angular/angular_includes.asp
+
+Assignment:
+Using AngularJS ngRoute or ng-Include create a portfolio web/mobile app with multiple pages.
+
+Your app must have the following pages:
+- Profile (Contains All Data about you E.g. Name, Age, Bday.. etc...)
+- Skills ( Contains all the skills you have and must be rated from 1 - 5 star) 
+
+Check this one for reference:
+https://css-tricks.com/star-ratings/
+
+- About you ( This page must contain a minimum of 4 paragraphs with at least 6 sentences that describes about yourself. )
+
+Note: Your design matters, So be creative.
+PLEASE TELL ALL YOUR CLASSMATES... Thank you!

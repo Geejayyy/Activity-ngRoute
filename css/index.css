@@ -1,0 +1,76 @@
+h1 {
+	font-family: ar cena;
+	font-size: 35px;
+	text-align: center;
+	background-color: #696969;
+	border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+section {
+
+	font-family: calibri;
+	font-size: 15px;
+	color: white;
+	background-color: black ;
+	border-radius: 5px;
+	padding: 20px;
+	
+	width: 50%;
+	
+	
+}
+
+body {
+	height: 50px;
+	width: 100%;
+	float:center;
+	padding: 20px;
+
+}
+
+img {
+	height: 100px;
+	width: 100px;
+	border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+p {
+	float: left;
+
+}
+
+span {
+	padding-left: 20px;
+	float: left;
+}
+
+text {
+	float: left;
+}
+
+
+.rating {
+  unicode-bidi: bidi-override;
+  direction: ltr;
+  text-align: center;
+
+
+}
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.5em;
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+   color: gold;
+   
+
+}
